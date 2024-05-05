@@ -1,0 +1,12 @@
+{
+  "name": "animal-directory-using-node.js-internship",
+  "version": "1.0.0",
+  "description": "internship project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
